@@ -25,7 +25,7 @@ body {
 }
 
 .drag_me {
-    -webkit-user-drag: elements;
+    -webkit-user-drag: element;
   }
   
 .cell {
